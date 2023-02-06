@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="JARS/c3p0-0.9.5.4.jar"/>
+	<classpathentry kind="lib" path="JARS/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="JARS/mchange-commons-java-0.2.16.jar"/>
+	<classpathentry kind="lib" path="JARS/mysql-connector-java-8.0.17.jar"/>
+	<classpathentry kind="lib" path="JARS/sqlite-jdbc-3.40.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
